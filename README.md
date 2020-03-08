@@ -46,6 +46,14 @@ pyinstaller --onefile --windowed hello_world.py
 pyinstaller --onefile --add-binary='/System/Library/Frameworks/Tk.framework/Tk':'tk' --add-binary='/System/Library/Frameworks/Tcl.framework/Tcl':'tcl' hello_world.py
 ```
 
+## Learning it using online IDE
+
+* [REPL.it](https://repl.it/languages/python3) supports tkinter development, debugging and running it online. Its very useful for adhoc learning.
+
+## Documentation
+
+* [Python3 tkinter](https://docs.python.org/3/library/tk.html)
+
 ---
 
 ## References
